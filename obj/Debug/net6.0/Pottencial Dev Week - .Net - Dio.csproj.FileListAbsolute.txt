@@ -1,0 +1,34 @@
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\obj\Debug\net6.0\Pottencial Dev Week - .Net - Dio.csproj.AssemblyReference.cache
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\obj\Debug\net6.0\Pottencial Dev Week - .Net - Dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\obj\Debug\net6.0\Pottencial Dev Week - .Net - Dio.AssemblyInfoInputs.cache
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\obj\Debug\net6.0\Pottencial Dev Week - .Net - Dio.AssemblyInfo.cs
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\obj\Debug\net6.0\Pottencial Dev Week - .Net - Dio.csproj.CoreCompileInputs.cache
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\obj\Debug\net6.0\Pottencial Dev Week - .Net - Dio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\obj\Debug\net6.0\Pottencial Dev Week - .Net - Dio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\bin\Debug\net6.0\appsettings.json
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\bin\Debug\net6.0\Pottencial Dev Week - .Net - Dio.exe
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\bin\Debug\net6.0\Pottencial Dev Week - .Net - Dio.deps.json
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\bin\Debug\net6.0\Pottencial Dev Week - .Net - Dio.runtimeconfig.json
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\bin\Debug\net6.0\Pottencial Dev Week - .Net - Dio.dll
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\bin\Debug\net6.0\Pottencial Dev Week - .Net - Dio.pdb
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\obj\Debug\net6.0\scopedcss\bundle\Pottencial Dev Week - .Net - Dio.styles.css
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\obj\Debug\net6.0\Pottencial Dev Week - .Net - Dio.csproj.CopyComplete
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\obj\Debug\net6.0\Pottencial Dev Week - .Net - Dio.dll
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\obj\Debug\net6.0\refint\Pottencial Dev Week - .Net - Dio.dll
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\obj\Debug\net6.0\Pottencial Dev Week - .Net - Dio.pdb
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\obj\Debug\net6.0\Pottencial Dev Week - .Net - Dio.genruntimeconfig.cache
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\obj\Debug\net6.0\ref\Pottencial Dev Week - .Net - Dio.dll
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\bin\Debug\net6.0\Humanizer.dll
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\charles_da_silva\OneDrive - Dell Technologies\Desktop\Programação\Pottencial Dev Week - .Net - Dio\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
